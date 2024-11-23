@@ -217,7 +217,7 @@ export default component$(() => {
                                 <div class="mkdf-position-left-inner">
                                     <div class="mkdf-mobile-logo-wrapper">
                                         <a itemProp="url" href="/" style="height: 38px">
-                                        <img loading="lazy" itemProp="image" src="wp-content/uploads/2019/10/logo-dark-img-02.png" width="144" height="77"  alt="Mobile Logo"/>
+                                        <img loading="lazy" itemProp="image" src="/wp-content/uploads/2019/10/logo-dark-img-02.png" width="144" height="77"  alt="Mobile Logo"/>
                                         </a>
                                     </div>
                                 </div>

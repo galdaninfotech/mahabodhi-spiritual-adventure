@@ -10,7 +10,7 @@ export default component$(() => {
                     <div class="mkdf-grid-row mkdf-footer-top-alignment-left">
                         <div class="mkdf-column-content mkdf-grid-col-3">
                             <div id="custom_html-3" class="widget_text widget mkdf-footer-column-1 widget_custom_html">
-                                <div class="textwidget custom-html-widget"><a href="index.html" style="max-width: 144px;display: inline-block"><img src="wp-content/uploads/2019/12/logo-footer.png" alt="logo_footer"/></a></div>
+                                <div class="textwidget custom-html-widget"><a href="index.html" style="max-width: 220px;display: inline-block"><img src="/wp-content/uploads/2019/12/logo-footer.png" alt="logo_footer"/></a></div>
                             </div>
                         </div>
                         <div class="mkdf-column-content mkdf-grid-col-9">
@@ -149,36 +149,7 @@ export default component$(() => {
                                     <h6 class="mkdf-widget-title">Instagram feed</h6>
                                 </div>
                                 <ul class="mkdf-instagram-feed clearfix mkdf-col-3 mkdf-instagram-gallery mkdf-tiny-space" >
-                                    <li>
-                                        <a href="https://www.instagram.com/mahabodhi-spiritual-adventure" target="_blank">
-                                        <span class="mkdf-instagram-icon"><i class="social_instagram"></i></span>
-                                        <img src="images/_nc_gid-AKFP9j-ERBB5LcPNLw9r219-oh-00_AYCPeeX5iPFcyuwJTqlQ0GPx_Juu77eFWEHYqWwGxmfEFw-oe-67400F3A_jpg_mvnbvtw7hy7mkj68fvaz0o.jpg" alt="" />						</a>
-                                    </li>
-                                    <li>
-                                        <a href="https://www.instagram.com/mahabodhi-spiritual-adventure/" target="_blank">
-                                        <span class="mkdf-instagram-icon"><i class="social_instagram"></i></span>
-                                        <img src="images/_nc_gid-AKFP9j-ERBB5LcPNLw9r219-oh-00_AYCKfFePm43_3z7HBrXoGg2cF6RmsFgZRXn8ROALs0c1ZQ-oe-67400CAE_jpg_rjmkyq6a7a0k46csksdypn.jpg" alt="" />						</a>
-                                    </li>
-                                    <li>
-                                        <a href="https://www.instagram.com/mahabodhi-spiritual-adventure/" target="_blank">
-                                        <span class="mkdf-instagram-icon"><i class="social_instagram"></i></span>
-                                        <img src="images/_nc_gid-AKFP9j-ERBB5LcPNLw9r219-oh-00_AYDAjIsStOIgxAWX_ZGhlzNyAkhFwI46qHoNQHMijan1mw-oe-6740200D_jpg_s3t8e2a2z2qa2qeo4s66et.jpg" alt="" />						</a>
-                                    </li>
-                                    <li>
-                                        <a href="https://www.instagram.com/mahabodhi-spiritual-adventure/" target="_blank">
-                                        <span class="mkdf-instagram-icon"><i class="social_instagram"></i></span>
-                                        <img src="images/_nc_gid-AKFP9j-ERBB5LcPNLw9r219-oh-00_AYBW2W6Z4viPSMt8qUjBHW4CLCkXmCzyLILrUbhblDUIuA-oe-674012B3_jpg_p26rsjqi7ioncicrrn5i6x.jpg" alt="" />						</a>
-                                    </li>
-                                    <li>
-                                        <a href="https://www.instagram.com/mahabodhi-spiritual-adventure/" target="_blank">
-                                        <span class="mkdf-instagram-icon"><i class="social_instagram"></i></span>
-                                        <img src="images/_nc_gid-AKFP9j-ERBB5LcPNLw9r219-oh-00_AYAn7WLeCOR9KayNUyr_QOx7mHrMLKBK224T3f9KDW9mdg-oe-67400D77_jpg_047z5red8hxaj3ycijmyai.jpg" alt="" />						</a>
-                                    </li>
-                                    <li>
-                                        <a href="https://www.instagram.com/p/CKB4ihChf9t/" target="_blank">
-                                        <span class="mkdf-instagram-icon"><i class="social_instagram"></i></span>
-                                        <img src="images/_nc_gid-AKFP9j-ERBB5LcPNLw9r219-oh-00_AYAUX-00WGOvmHcQZ9wH_O7ypSDdRp5OHkSG7K8Cgk3heA-oe-67403AC3_jpg_du4qwhastm2nd2ifepehiy.jpg" alt="" />						</a>
-                                    </li>
+                                    
                                 </ul>
                             </div>
                         </div>
