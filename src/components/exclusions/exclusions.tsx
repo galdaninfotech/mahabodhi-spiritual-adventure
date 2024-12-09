@@ -8,9 +8,9 @@ export default component$(() => {
             <a itemProp="url" href="#" title="Exclusions"> Exclusions: </a>
         </h4>
         <ul class="inclusion">
-          <li><span><i class="far fa-check-square"></i>Airfare to and from Leh.</span></li>
-          <li><span><i class="far fa-check-square"></i>Personal expenses (shopping, additional meals).</span></li>
-          <li><span><i class="far fa-check-square"></i>Optional activities not included in the package.</span></li>
+          <li><span><i class="fas fa-times-circle"></i>Airfare to and from Leh.</span></li>
+          <li><span><i class="fas fa-times-circle"></i>Personal expenses (shopping, additional meals).</span></li>
+          <li><span><i class="fas fa-times-circle"></i>Optional activities not included in the package.</span></li>
         </ul>
     </>
   );

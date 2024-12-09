@@ -1,0 +1,23 @@
+
+.mkdf-container {
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+.mkdf-blog-holder article .mkdf-post-title {
+    color: slategrey;
+}
+.mkdf-blog-holder article .mkdf-post-excerpt-holder p {
+    color: #878787;
+}
+
+ul.amenities-list {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+ul.amenities-list li {
+    color: #878787;
+    line-height: 28px;
+}
+ul.amenities-list li i {
+    margin-right: 8px;
+}

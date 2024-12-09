@@ -18,7 +18,7 @@ export default component$(() => {
               <div class="mkdf-title-wrapper" style="height: 302px;padding-top: 150px">
                   <div class="mkdf-title-inner">
                       <div class="mkdf-grid">
-                          <h2 class="mkdf-page-title entry-title">About Us</h2>
+                          <h2 class="mkdf-page-title entry-title">Amenities</h2>
                       </div>
                   </div>
               </div>
@@ -53,46 +53,52 @@ export default component$(() => {
                                           <div class="mkdf-post-text">
                                               <div class="mkdf-post-text-inner">
                                                   <div class="mkdf-post-text-main">
-                                                      <h3 itemProp="name" class="entry-title mkdf-post-title">Mahabodhi Spiritual Adventure</h3>
+                                                      <h3 itemProp="name" class="entry-title mkdf-post-title">Exclusive Facilities for Our Valued Clients</h3>
                                                       <div class="mkdf-post-excerpt-holder">
                                                           <p itemProp="description" class="mkdf-post-excerpt">
-                                                            "Mahabodhi Spiritual Adventure" Travel Agency, rooted in the Venerable Sanghasena Mahathera's vision, is your gateway to the awe-inspiring and authentic Ladakh experience. Nestled in the heart of the Himalayas, Ladakh is a land of breathtaking landscapes, rich culture, and warm hospitality. At Mahabodhi Spiritual Adventure, we are committed to providing travelers with a unique and immersive journey through this pristine region. Our handcrafted itineraries go beyond the tourist hotspots, delving into the heart of Ladakh's culture, traditions, and natural wonders. Whether you're an adventure seeker, a cultural explorer, or simply someone seeking solace in the mountains, Mahabodhi Spiritual Adventure Travel Agency is your trusted partner in discovering Ladakh's hidden gems. Venrable Sanghasena's vision embraces connecting with nature by combining yoga, meditation, and travel a holistic approach to creating memories that will last a lifetime." 
+                                                            At Mahabodhi Spiritual Adventure, we pride ourselves on offering a unique experience that goes beyond conventional travel services. Our facilities, exclusive to our agency, are designed to provide you with the best opportunities for a meaningful and enriching journey. 
                                                           </p>
                                                       </div>
 
-                                                      <h4 itemProp="name" class="entry-title mkdf-post-title" style="margin-top:30px">
-                                                          <a itemProp="url" href="/" title="Mahabodhi Spiritual Adventure">
-                                                          Vision            </a>
-                                                      </h4>
+                                                      <h4 itemProp="name" class="entry-title mkdf-post-title" style="margin-top:30px"> Open Campus: </h4>
                                                       <div class="mkdf-post-excerpt-holder">
                                                           <p itemProp="description" class="mkdf-post-excerpt">
-                                                            Empower individuals to embark on transformative journeys, seamlessly blending travel, yoga, and meditation. Envision a world where our agency becomes synonymous with holistic well-being, guiding seekers towards inner harmony amidst the captivating embrace of nature.
+                                                            Our parent organization, the Mahabodhi International Meditation Centre, boasts one of the largest campuses in Ladakh, spanning an impressive 250 acres. This campus is home to various social service centers, including:
+                                                          </p>
+
+                                                          <ul class="amenities-list">
+                                                            <li><i class="far fa-check-square"></i>A school</li>
+                                                            <li><i class="far fa-check-square"></i>Hostels for boys and girls</li>
+                                                            <li><i class="far fa-check-square"></i>A monastery and a nunnery</li>
+                                                            <li><i class="far fa-check-square"></i>An old age home</li>
+                                                            <li><i class="far fa-check-square"></i>Buddha Park</li>
+                                                            <li><i class="far fa-check-square"></i>A hospital</li>
+                                                          </ul>
+
+                                                          <p itemProp="description" class="mkdf-post-excerpt">
+                                                            These facilities enable us to serve the community while offering you a chance to engage with our mission. When you join us through Mahabodhi Spiritual Adventure, you are not just a client—you become part of our extended family.
                                                           </p>
                                                       </div>
 
-                                                      <h4 itemProp="name" class="entry-title mkdf-post-title" style="margin-top:30px">
-                                                          <a itemProp="url" href="/" title="Mahabodhi Spiritual Adventure">
-                                                          Mssion            </a>
-                                                      </h4>
-                                                      <div class="mkdf-post-excerpt-holder" style="margin-bottom: 50px">
+                                                      <h4 itemProp="name" class="entry-title mkdf-post-title" style="margin-top:30px"> Exclusive Access: </h4>
+                                                      <div class="mkdf-post-excerpt-holder">
                                                           <p itemProp="description" class="mkdf-post-excerpt">
-                                                            Dedicated to curating unparalleled experiences, our mission is to facilitate rejuvenation and self-discovery through travel, yoga, and meditation. We strive to be pioneers in fostering a profound connection with nature, starting with the majestic landscapes of Ladakh. Committed to providing transformative escapes, we aim to inspire a conscious and balanced lifestyle, nurturing both the individual and the environment.
+                                                            As a member of our family, you have the opportunity to explore and utilize many of these facilities, such as meditation spaces, the hospital, and more.
                                                           </p>
                                                       </div>
+
+                                                      <h4 itemProp="name" class="entry-title mkdf-post-title" style="margin-top:30px"> Accommodation Options: </h4>
+                                                      <div class="mkdf-post-excerpt-holder">
+                                                          <p itemProp="description" class="mkdf-post-excerpt">
+                                                            We offer a range of accommodation choices, including our own guest house and several other facilities, ensuring your comfort and convenience throughout your stay.
+                                                          </p><br />
+
+                                                          <p itemProp="description" class="mkdf-post-excerpt">
+                                                            At Mahabodhi Spiritual Adventure, your journey is more than a trip—it’s a chance to connect, grow, and contribute to a greater purpose.
+                                                          </p>
+                                                      </div>
+
                                                       
-
-                                                      <h4 itemProp="name" class="entry-title mkdf-post-title" style="margin-top:30px">
-                                                          <a itemProp="url" href="/" title="Mahabodhi Spiritual Adventure">About the Founder</a>
-                                                      </h4>
-                                                      <div class="mkdf-post-excerpt-holder">
-                                                          <p itemProp="description" class="mkdf-post-excerpt">
-                                                            Venerable Sanghasena Mahathera, hailing from a noble Amchi family in Lharjay, Tingmosgang village, displayed early virtues of peacefulness and humility. After a stint in the Indian Army, he heeded an inner spiritual calling in 1977, leaving the mountains of Ladakh to become a disciple of Venerable Acharya Buddharakkhita Mahathera.
-                                                          </p>
-
-                                                          <p itemProp="description" class="mkdf-post-excerpt" style="margin-top: 30px">
-                                                            In 1986, Venerable Bhikkhu Sanghasena founded the Mahabodhi International Meditation Centre (MIMC) in Ladakh. Over the past 25 years, he has dedicated himself to providing education, healthcare, empowerment programs for women, and various humanitarian services for the underprivileged, reflecting a commitment to compassion and altruism.
-                                                          </p>
-                                                      </div>
 
                                                   </div>
                                                   
@@ -118,7 +124,7 @@ export default component$(() => {
 });
 
 export const head: DocumentHead = {
-  title: 'About Us',
+  title: 'Amenities',
   meta: [
     {
       name: 'description',

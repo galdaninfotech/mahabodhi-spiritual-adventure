@@ -4,9 +4,10 @@ import styles from './index.css?inline';
 import Sidebar from '~/components/starter/sidebar/sidebar';
 import Inclusions from '~/components/inclusions/inclusions';
 import Exclusions from '~/components/exclusions/exclusions';
-import OtherFacilities from '~/components/other-facilities/other-facilities';
+import OtherFacilities from '~/components/amenities/amenities';
 import ImgBlogPostImg35 from '../../../../public/images/blog-post-img-35.jpg?jsx';
 import ImgBlogPostImg33 from '../../../../public/images/blog-post-img-33.jpg?jsx';
+import OptionalActivities from '~/components/optional-activities/optional-activities';
 
 export default component$(() => {
   useStylesScoped$(styles);
@@ -126,6 +127,7 @@ export default component$(() => {
                                                       <Inclusions />
                                                       <Exclusions />
                                                       <OtherFacilities />
+                                                      <OptionalActivities />
                                                        
                                                       
                                                   </div>
