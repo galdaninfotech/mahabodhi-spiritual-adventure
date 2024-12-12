@@ -7,16 +7,7 @@ export default component$(() => {
             <div class="mkdf-menu-area">
                 <div class="mkdf-vertical-align-containers">
                     <div class="mkdf-position-left">
-                        <div class="mkdf-divided-left-widget-area">
-                            <div class="mkdf-divided-left-widget-area-inner">
-                                <div class="mkdf-position-left-inner-wrap">
-                                    <a class="mkdf-icon-widget-holder"  href="destination-list.html" target="_self" >
-                                        <span class="mkdf-icon-element ion-map" style="font-size: 28px"></span>				
-                                        <span class="mkdf-icon-text ">Destinations</span>			
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
+                        
                         <div class="mkdf-position-left-inner">
                             <nav class="mkdf-main-menu mkdf-drop-down mkdf-divided-left-part mkdf-default-nav">
                                 <ul id="menu-divided-left" class="clearfix">
@@ -182,31 +173,7 @@ export default component$(() => {
                                 </ul>
                             </nav>
                         </div>
-                        <div class="mkdf-divided-right-widget-area">
-                            <div class="mkdf-divided-right-widget-area-inner">
-                                <div class="mkdf-position-right-inner-wrap">
-                                    <div class="mkdf-search-opener-holder">
-                                        <form action="index.html" class="mkdf-on-side-search-form" method="get">
-                                            <div class="mkdf-form-holder">
-                                                <div class="mkdf-form-holder-inner">
-                                                    <div class="mkdf-field-holder">
-                                                        <input type="text" placeholder="Search" name="s" class="mkdf-search-field" autocomplete="off" required/>
-                                                    </div>
-                                                    <button class="mkdf-onside-btn" type="submit">
-                                                    <span class="mkdf-onside-btn-icon"></span>
-                                                    </button>
-                                                </div>
-                                            </div>
-                                        </form>
-                                        <a  style="margin: 0 0 0 27px;" class="mkdf-search-opener mkdf-icon-has-hover mkdf-search-opener-icon-pack" href="javascript:void(0)">
-                                        <span class="mkdf-search-opener-wrapper">
-                                        <span class="mkdf-search-icon-text">Search</span>
-                                        <i class="mkdf-icon-ion-icon ion-ios-search " ></i>	            </span>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        
                     </div>
                 </div>
             </div>

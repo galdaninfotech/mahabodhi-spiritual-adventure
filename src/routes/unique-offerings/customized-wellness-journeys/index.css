@@ -9,3 +9,18 @@
 .mkdf-blog-holder article .mkdf-post-excerpt-holder p {
     color: #878787;
 }
+
+.mkdf-blog-holder article .mkdf-post-title a {
+    font-size: 30px;
+}
+
+/* Form */
+.mkdf-post-excerpt-holder p.mkdf-post-excerpt {
+    margin-bottom: 30px;
+}
+.customized-wellness-journeys-form span {
+    display: flex;
+    align-items: center;
+    justify-context: center;
+    gap: 10px;
+}
