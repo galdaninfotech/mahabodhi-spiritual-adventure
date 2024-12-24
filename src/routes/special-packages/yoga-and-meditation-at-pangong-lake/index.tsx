@@ -23,7 +23,12 @@ export default component$(() => {
               <div class="mkdf-title-wrapper" style="height: 302px;padding-top: 150px">
                   <div class="mkdf-title-inner">
                       <div class="mkdf-grid">
-                          <h2 class="mkdf-page-title entry-title">Nature Immersion Retreat</h2>
+                            <h2 class="mkdf-page-title entry-title">Yoga and Meditation At Pangong Lake</h2>
+                            <p class="breadcrumbs">
+                                <span class="me-2"><a href="/">Home &gt;</a></span> 
+                                <span class="me-2"><a href="#">Special Packages &gt;</a></span>
+                                <span style="color: #59815b">Yoga and Meditation At Pangong Lake</span>
+                            </p>
                       </div>
                   </div>
               </div>
@@ -39,7 +44,7 @@ export default component$(() => {
                                       <div class="mkdf-post-content">
                                           <div class="mkdf-post-heading">
                                               <div class="mkdf-post-image">
-                                                  <a itemProp="url" href="/upcoming-retreats/nature-immersion-retreat" title="nature-immersion-retreat/">
+                                                  <a itemProp="url" href="/upcoming-retreats/yoga-and-meditation-at-pangong-lake/" title="yoga-and-meditation-at-pangong-lake/">
                                                   <ImgBlogPostImg33 />	</a>
                                               </div>
                                               <div class="mkdf-post-info-category mkdf-st-highlight">
@@ -65,18 +70,18 @@ export default component$(() => {
                                                     </div>
                                                     <div class="mkdf-post-info-author">
                                                         <i class="fas fa-map-marked-alt"></i>
-                                                        <a itemProp="author" class="mkdf-post-info-author-link" href="/upcoming-retreats/nature-immersion-retreat">
+                                                        <a itemProp="author" class="mkdf-post-info-author-link" href="/upcoming-retreats/yoga-and-meditation-at-pangong-lake/">
                                                         Ladakh Meditation Retreat & Exploration</a>
                                                     </div>
                                                 </div>
                                                 <div class="mkdf-post-text-main">
                                                     <h3 itemProp="name" class="entry-title mkdf-post-title">
-                                                        <a itemProp="url" href="#" title="nature-immersion-retreat"> Nature Immersion Retreat </a>
+                                                        <a itemProp="url" href="#" title="yoga-and-meditation-at-pangong-lake/"> Yoga and Meditation At Pangong Lake </a>
                                                     </h3>
 
                                                     <div class="mkdf-post-excerpt-holder">
                                                         <p itemProp="description" class="mkdf-post-excerpt">
-                                                            Enjoy nature with yoga and meditation sessions in the breathtaking Nubra Valley. Enjoy hikes to hidden gems, connect with local culture, and participate in evening meditation under the stars. This retreat is perfect for nature lovers seeking serenity.
+                                                            Join us for an unforgettable retreat at the stunning Pangong Lake. Practice yoga at sunrise with breathtaking views and guided meditation sessions that connect deeply with this magical place's tranquillity.
                                                         </p>
                                                     </div>
 
@@ -112,11 +117,11 @@ export default component$(() => {
 });
 
 export const head: DocumentHead = {
-  title: 'Nature Immersion Retreat',
+  title: 'Yoga and Meditation At Pangong Lake',
   meta: [
     {
       name: 'description',
-      content: 'Nature Immersion Retreat',
+      content: 'Yoga and Meditation At Pangong Lake',
     },
   ],
 };

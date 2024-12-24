@@ -71,3 +71,14 @@ ul.inclusion li span {
 ul.inclusion li span i {
   margin-right: 8px;
 }
+
+/* Breadcrumbs */
+.breadcrumbs {
+    margin-top: 20px; color: #fff; font-family: Oswald,sans-serif
+}
+.breadcrumbs span a {
+    color: #fff;
+}
+.breadcrumbs span:last-child {
+    color: #59815b;
+}

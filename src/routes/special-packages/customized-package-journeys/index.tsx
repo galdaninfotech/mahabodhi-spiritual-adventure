@@ -22,11 +22,11 @@ export default component$(() => {
               <div class="mkdf-title-wrapper" style="height: 302px;padding-top: 150px">
                   <div class="mkdf-title-inner">
                       <div class="mkdf-grid">
-                            <h2 class="mkdf-page-title entry-title">Customized Wellness Journeys</h2>
+                            <h2 class="mkdf-page-title entry-title">Customized Package Journeys</h2>
                             <p class="breadcrumbs">
                                 <span class="me-2"><a href="/">Home &gt;</a></span> 
-                                <span class="me-2"><a href="#">Unique Offerings &gt;</a></span>
-                                <span style="color: #59815b">Customized Wellness Journeys</span>
+                                <span class="me-2"><a href="#">Special Packages &gt;</a></span>
+                                <span style="color: #59815b">Customized Package Journeys</span>
                             </p>
                       </div>
                   </div>
@@ -46,7 +46,7 @@ export default component$(() => {
                                               <div class="mkdf-post-text-inner">
                                                 <div class="mkdf-post-text-main">
                                                     <h3 itemProp="name" class="entry-title mkdf-post-title">
-                                                        <a itemProp="url" href="#" title="Customized Wellness Journeys"> Customized Wellness Journeys </a>
+                                                        <a itemProp="url" href="#" title="Customized Package Journeys"> Customized Package Journeys </a>
                                                     </h3>
 
                                                     <div class="mkdf-post-excerpt-holder">
@@ -118,11 +118,11 @@ export default component$(() => {
 });
 
 export const head: DocumentHead = {
-  title: 'Customized Wellness Journeys',
+  title: 'Customized Package Journeys',
   meta: [
     {
       name: 'description',
-      content: 'Customized Wellness Journeys',
+      content: 'Customized Package Journeys',
     },
   ],
 };

@@ -15,6 +15,11 @@ export default component$(() => {
                     <div class="mkdf-title-inner">
                         <div class="mkdf-grid">
                             <h2 class="mkdf-page-title entry-title">Contact Us</h2>
+                            <p class="breadcrumbs">
+                                <span class="me-2"><a href="/">Home &gt;</a></span> 
+                                <span class="me-2"><a href="#">About &gt;</a></span>
+                                <span style="color: #59815b">Contact Us</span>
+                            </p>
                         </div>
                     </div>
                 </div>

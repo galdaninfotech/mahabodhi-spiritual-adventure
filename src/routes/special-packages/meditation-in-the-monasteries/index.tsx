@@ -23,7 +23,12 @@ export default component$(() => {
               <div class="mkdf-title-wrapper" style="height: 302px;padding-top: 150px">
                   <div class="mkdf-title-inner">
                       <div class="mkdf-grid">
-                          <h2 class="mkdf-page-title entry-title">Meditation In The Monasteries</h2>
+                            <h2 class="mkdf-page-title entry-title">Meditation In The Monasteries</h2>
+                            <p class="breadcrumbs">
+                                <span class="me-2"><a href="/">Home &gt;</a></span> 
+                                <span class="me-2"><a href="#">Special Packages &gt;</a></span>
+                                <span style="color: #59815b">Meditation In The Monasteries</span>
+                            </p>
                       </div>
                   </div>
               </div>

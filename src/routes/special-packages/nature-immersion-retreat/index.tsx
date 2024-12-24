@@ -23,7 +23,12 @@ export default component$(() => {
               <div class="mkdf-title-wrapper" style="height: 302px;padding-top: 150px">
                   <div class="mkdf-title-inner">
                       <div class="mkdf-grid">
-                          <h2 class="mkdf-page-title entry-title">Ladakh Yoga Retreat</h2>
+                            <h2 class="mkdf-page-title entry-title">Nature Immersion Retreat</h2>
+                            <p class="breadcrumbs">
+                                <span class="me-2"><a href="/">Home &gt;</a></span> 
+                                <span class="me-2"><a href="#">Special Packages &gt;</a></span>
+                                <span style="color: #59815b">Nature Immersion Retreat</span>
+                            </p>
                       </div>
                   </div>
               </div>
@@ -39,7 +44,7 @@ export default component$(() => {
                                       <div class="mkdf-post-content">
                                           <div class="mkdf-post-heading">
                                               <div class="mkdf-post-image">
-                                                  <a itemProp="url" href="/upcoming-retreats/ladakh-yoga-retreat/" title="ladakh-yoga-retreat/">
+                                                  <a itemProp="url" href="/upcoming-retreats/nature-immersion-retreat" title="nature-immersion-retreat/">
                                                   <ImgBlogPostImg33 />	</a>
                                               </div>
                                               <div class="mkdf-post-info-category mkdf-st-highlight">
@@ -65,18 +70,18 @@ export default component$(() => {
                                                     </div>
                                                     <div class="mkdf-post-info-author">
                                                         <i class="fas fa-map-marked-alt"></i>
-                                                        <a itemProp="author" class="mkdf-post-info-author-link" href="/upcoming-retreats/ladakh-yoga-retreat/">
+                                                        <a itemProp="author" class="mkdf-post-info-author-link" href="/upcoming-retreats/nature-immersion-retreat">
                                                         Ladakh Meditation Retreat & Exploration</a>
                                                     </div>
                                                 </div>
                                                 <div class="mkdf-post-text-main">
                                                     <h3 itemProp="name" class="entry-title mkdf-post-title">
-                                                        <a itemProp="url" href="#" title="Ladakh Yoga Retreat"> Ladakh Yoga Retreat </a>
+                                                        <a itemProp="url" href="#" title="nature-immersion-retreat"> Nature Immersion Retreat </a>
                                                     </h3>
 
                                                     <div class="mkdf-post-excerpt-holder">
                                                         <p itemProp="description" class="mkdf-post-excerpt">
-                                                            Join us for a transformative week of yoga and meditation in the heart of Ladakh. Enjoy daily yoga sessions with experienced instructors, explore stunning landscapes, and engage with local culture through guided tours of ancient monasteries and vibrant markets.
+                                                            Enjoy nature with yoga and meditation sessions in the breathtaking Nubra Valley. Enjoy hikes to hidden gems, connect with local culture, and participate in evening meditation under the stars. This retreat is perfect for nature lovers seeking serenity.
                                                         </p>
                                                     </div>
 
@@ -87,6 +92,7 @@ export default component$(() => {
                                                     <OtherFacilities />
                                                     <OptionalActivities />
 
+                                                    
                                                 </div>
                                                   
                                               </div>
@@ -111,11 +117,11 @@ export default component$(() => {
 });
 
 export const head: DocumentHead = {
-  title: 'Ladakh Yoga Retreat',
+  title: 'Nature Immersion Retreat',
   meta: [
     {
       name: 'description',
-      content: 'Ladakh Yoga Retreat',
+      content: 'Nature Immersion Retreat',
     },
   ],
 };

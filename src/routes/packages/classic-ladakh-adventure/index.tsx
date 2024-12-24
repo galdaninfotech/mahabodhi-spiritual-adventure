@@ -23,7 +23,12 @@ export default component$(() => {
               <div class="mkdf-title-wrapper" style="height: 302px;padding-top: 150px">
                   <div class="mkdf-title-inner">
                       <div class="mkdf-grid">
-                          <h2 class="mkdf-page-title entry-title">Complete Retreat</h2>
+                            <h2 class="mkdf-page-title entry-title">Classic Ladakh Adventure</h2>
+                            <p class="breadcrumbs">
+                                <span class="me-2"><a href="/">Home &gt;</a></span> 
+                                <span class="me-2"><a href="#">Packages &gt;</a></span>
+                                <span>Classic Ladakh Adventure</span>
+                            </p>
                       </div>
                   </div>
               </div>
@@ -39,7 +44,7 @@ export default component$(() => {
                                       <div class="mkdf-post-content">
                                           <div class="mkdf-post-heading">
                                               <div class="mkdf-post-image">
-                                                  <a itemProp="url" href="/packages/complete-retreat/" title="Complete Retreat">
+                                                  <a itemProp="url" href="/packages/complete-retreat/" title="Classic Ladakh Adventure">
                                                   <ImgBlogPostImg33 />	</a>
                                               </div>
                                               <div class="mkdf-post-info-category mkdf-st-highlight">
@@ -60,7 +65,7 @@ export default component$(() => {
                                                 <div class="mkdf-post-info-top">
                                                     <div itemProp="dateCreated" class="mkdf-post-info-date entry-date published updated">
                                                         <i class="fas fa-calendar-alt"></i>            
-                                                        <a itemProp="url" href="#"> 6 Days / 5 Nights </a>
+                                                        <a itemProp="url" href="#"> 7 Days / 6 Nights </a>
                                                         <meta itemProp="interactionCount" content="UserComments: 0" />
                                                     </div>
                                                     <div class="mkdf-post-info-author">
@@ -71,7 +76,7 @@ export default component$(() => {
                                                 </div>
                                                   <div class="mkdf-post-text-main">
                                                       <h3 itemProp="name" class="entry-title mkdf-post-title">
-                                                          <a itemProp="url" href="#" title="Complete Retreat"> Complete Retreat </a>
+                                                          <a itemProp="url" href="#" title="Classic Ladakh Adventure"> Classic Ladakh Adventure </a>
                                                       </h3>
 
                                                       <h4 itemProp="name" class="entry-title mkdf-post-title" style="margin-top:30px">
@@ -82,46 +87,70 @@ export default component$(() => {
                                                           <a itemProp="url" href="#" title="Day 1: Arrival in Leh"> Day 1: Arrival in Leh </a>
                                                       </h5>
                                                       <ul class="itinerary-list">
-                                                        <li><i class="far fa-dot-circle"></i>Arrival at Mahabodhi Campus (transfer provided).</li>
-                                                        <li><i class="far fa-dot-circle"></i>Full day rest and soaking in the environment.</li>
-                                                        <li><i class="far fa-dot-circle"></i>Evening orientation.</li>
+                                                        <li><i class="far fa-dot-circle"></i>Arrival at Leh Airport and transfer to hotel.</li>
+                                                        <li><i class="far fa-dot-circle"></i>Acclimatization and rest to adjust to the altitude.</li>
+                                                        <li><i class="far fa-dot-circle"></i>Evening: Visit Shanti Stupa and Leh Palace.</li>
+                                                        <li><i class="far fa-dot-circle"></i>Overnight in Leh.</li>
                                                       </ul>
 
 
                                                       <h5 itemProp="name" class="entry-title mkdf-post-title" style="margin-top:40px">
-                                                          <a itemProp="url" href="#" title="Day 2-6: Mahabodhi International Meditation Centre Retreat"> Day 2-6: Mahabodhi International Meditation Centre Retreat </a>
+                                                          <a itemProp="url" href="#" title="Day 2-6: Mahabodhi International Meditation Centre Retreat"> Day 2:  Leh Local Sightseeing</a>
                                                       </h5>
                                                       
                                                       <ul class="itinerary-list" style="margin-left: 20px;">
-                                                        <li><i class="far fa-dot-circle"></i>Morning: Yoga and meditation sessions.</li>
-                                                        <li><i class="far fa-dot-circle"></i>Breakfast (nutritious and locally inspired).</li>
-                                                        <li><i class="far fa-dot-circle"></i>Mid-morning: Self-reflection, journaling, or participation in wellness workshops.</li>
-                                                        <li><i class="far fa-dot-circle"></i>Lunch (organic and vegetarian meals).</li>
-                                                        <li><i class="far fa-dot-circle"></i>Early Afternoon: Community sessions, guided mindfulness walks, or private relaxation.</li>
-                                                        <li><i class="far fa-dot-circle"></i>Evening: Talks on Buddhist teachings and practices.</li>
-                                                        <li><i class="far fa-dot-circle"></i>Dinner followed by relaxation.</li>
+                                                        <li><i class="far fa-dot-circle"></i>Morning: Visit Hemis Monastery, Thiksey Monastery, and Shey Palace. </li>
+                                                        <li><i class="far fa-dot-circle"></i>Afternoon: Explore Leh Market and enjoy local Ladakhi cuisine.</li>
+                                                        <li><i class="far fa-dot-circle"></i>Overnight in Leh</li>
                                                       </ul>
 
 
                                                       <h5 itemProp="name" class="entry-title mkdf-post-title" style="margin-top:30px">
-                                                          <a itemProp="url" href="#" title="Day 5 Mini-Trekking Experience"> Day 5 Mini-Trekking Experience:</a>
+                                                          <a itemProp="url" href="#" title="Day 5 Mini-Trekking Experience"> Day 3:  Leh to Nubra Valley (125 km, 5-6 hours) </a>
                                                       </h5>
                                                       <ul class="itinerary-list">
-                                                        <li><i class="far fa-dot-circle"></i>Early morning: Guided trek to a nearby serene hill for meditation and sunrise viewing.</li>
-                                                        <li><i class="far fa-dot-circle"></i>Duration: ~3 hours round-trip.</li>
-                                                        <li><i class="far fa-dot-circle"></i>In the Evening we will visit Leh's main market for any last-minute shopping.</li>
+                                                        <li><i class="far fa-dot-circle"></i>Drive via Khardung La Pass (18,380 ft, world’s highest motorable road). </li>
+                                                        <li><i class="far fa-dot-circle"></i>Visit Diskit Monastery and the iconic Maitreya Buddha statue.</li>
+                                                        <li><i class="far fa-dot-circle"></i>Explore Hunder sand dunes; enjoy a camel ride.</li>
+                                                        <li><i class="far fa-dot-circle"></i>Overnight in a Nubra Valley camp.</li>
                                                       </ul>
                                                       
 
                                                       <h5 itemProp="name" class="entry-title mkdf-post-title" style="margin-top:30px">
-                                                          <a itemProp="url" href="#" title="Day 6: Departure"> Day 6: Departure </a>
+                                                          <a itemProp="url" href="#" title="Day 6: Departure"> Day 4: Nubra Valley to Pangong Lake (160 km, 6-7 hours)</a>
                                                       </h5>
                                                       <ul class="itinerary-list">
-                                                        <li><i class="far fa-dot-circle"></i>Morning meditation and yoga.</li>
-                                                        <li><i class="far fa-dot-circle"></i>Farewell breakfast and closing session.</li>
-                                                        <li><i class="far fa-dot-circle"></i>Departure.</li>
+                                                        <li><i class="far fa-dot-circle"></i>Travel through Shyok route.</li>
+                                                        <li><i class="far fa-dot-circle"></i>Witness the breathtaking Pangong Lake, famed for its changing hues.</li>
+                                                        <li><i class="far fa-dot-circle"></i>Relax by the lake and enjoy a bonfire (weather permitting). </li>
+                                                        <li><i class="far fa-dot-circle"></i>Overnight in a lakeside camp. </li>
+                                                      </ul>
+
+                                                      <h5 itemProp="name" class="entry-title mkdf-post-title" style="margin-top:30px">
+                                                          <a itemProp="url" href="#" title="Day 6: Departure"> Day 5: Pangong Lake to Leh (160 km, 6-7 hours)</a>
+                                                      </h5>
+                                                      <ul class="itinerary-list">
+                                                        <li><i class="far fa-dot-circle"></i>Early morning: Sunrise at Pangong Lake.</li>
+                                                        <li><i class="far fa-dot-circle"></i>Visit Chang La Pass en route. </li>
+                                                        <li><i class="far fa-dot-circle"></i>Evening leisure time in Leh. </li>
+                                                        <li><i class="far fa-dot-circle"></i>Overnight in Leh. </li>
                                                       </ul>
                                                       
+                                                      <h5 itemProp="name" class="entry-title mkdf-post-title" style="margin-top:30px">
+                                                          <a itemProp="url" href="#" title="Day 6: Departure"> Day 6: Excursion to Magnetic Hill & Alchi Monastery</a>
+                                                      </h5>
+                                                      <ul class="itinerary-list">
+                                                        <li><i class="far fa-dot-circle"></i>Visit the famous Magnetic Hill, Sangam (confluence of Indus and Zanskar rivers), and Gurudwara Pathar Sahib.</li>
+                                                        <li><i class="far fa-dot-circle"></i>Explore Alchi Monastery, known for its intricate frescoes. </li>
+                                                        <li><i class="far fa-dot-circle"></i>Return to Leh and overnight stay. </li>
+                                                      </ul>
+
+                                                      <h5 itemProp="name" class="entry-title mkdf-post-title" style="margin-top:30px">
+                                                          <a itemProp="url" href="#" title="Day 6: Departure"> Day 7: Departure from Leh</a>
+                                                      </h5>
+                                                      <ul class="itinerary-list">
+                                                        <li><i class="far fa-dot-circle"></i>Transfer to Leh Airport for departure.</li>
+                                                      </ul>
 
                                                       <br /><br /><br />
                                                       <Inclusions />
@@ -154,11 +183,11 @@ export default component$(() => {
 });
 
 export const head: DocumentHead = {
-  title: 'Complete Retreat',
+  title: 'Classic Ladakh Adventure',
   meta: [
     {
       name: 'description',
-      content: 'Complete Retreat',
+      content: 'Classic Ladakh Adventure',
     },
   ],
 };

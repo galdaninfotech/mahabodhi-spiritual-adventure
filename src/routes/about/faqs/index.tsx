@@ -18,10 +18,11 @@ export default component$(() => {
               <div class="mkdf-title-wrapper" style="height: 302px;padding-top: 150px">
                   <div class="mkdf-title-inner">
                       <div class="mkdf-grid">
-                            <h2 class="mkdf-page-title entry-title">Amenities</h2>
+                            <h2 class="mkdf-page-title entry-title">FAQs</h2>
                             <p class="breadcrumbs">
                                 <span class="me-2"><a href="/">Home &gt;</a></span> 
-                                <span style="color: #59815b">Amenities</span>
+                                <span class="me-2"><a href="#">About &gt;</a></span>
+                                <span style="color: #59815b">FAQs</span>
                             </p>
                       </div>
                   </div>
@@ -57,51 +58,7 @@ export default component$(() => {
                                           <div class="mkdf-post-text">
                                               <div class="mkdf-post-text-inner">
                                                   <div class="mkdf-post-text-main">
-                                                      <h3 itemProp="name" class="entry-title mkdf-post-title">Exclusive Facilities for Our Valued Clients</h3>
-                                                      <div class="mkdf-post-excerpt-holder">
-                                                          <p itemProp="description" class="mkdf-post-excerpt">
-                                                            At Mahabodhi Spiritual Adventure, we pride ourselves on offering a unique experience that goes beyond conventional travel services. Our facilities, exclusive to our agency, are designed to provide you with the best opportunities for a meaningful and enriching journey. 
-                                                          </p>
-                                                      </div>
-
-                                                      <h4 itemProp="name" class="entry-title mkdf-post-title" style="margin-top:30px"> Open Campus: </h4>
-                                                      <div class="mkdf-post-excerpt-holder">
-                                                          <p itemProp="description" class="mkdf-post-excerpt">
-                                                            Our parent organization, the Mahabodhi International Meditation Centre, boasts one of the largest campuses in Ladakh, spanning an impressive 250 acres. This campus is home to various social service centers, including:
-                                                          </p>
-
-                                                          <ul class="amenities-list">
-                                                            <li><i class="far fa-check-square"></i>A school</li>
-                                                            <li><i class="far fa-check-square"></i>Hostels for boys and girls</li>
-                                                            <li><i class="far fa-check-square"></i>A monastery and a nunnery</li>
-                                                            <li><i class="far fa-check-square"></i>An old age home</li>
-                                                            <li><i class="far fa-check-square"></i>Buddha Park</li>
-                                                            <li><i class="far fa-check-square"></i>A hospital</li>
-                                                          </ul>
-
-                                                          <p itemProp="description" class="mkdf-post-excerpt">
-                                                            These facilities enable us to serve the community while offering you a chance to engage with our mission. When you join us through Mahabodhi Spiritual Adventure, you are not just a client—you become part of our extended family.
-                                                          </p>
-                                                      </div>
-
-                                                      <h4 itemProp="name" class="entry-title mkdf-post-title" style="margin-top:30px"> Exclusive Access: </h4>
-                                                      <div class="mkdf-post-excerpt-holder">
-                                                          <p itemProp="description" class="mkdf-post-excerpt">
-                                                            As a member of our family, you have the opportunity to explore and utilize many of these facilities, such as meditation spaces, the hospital, and more.
-                                                          </p>
-                                                      </div>
-
-                                                      <h4 itemProp="name" class="entry-title mkdf-post-title" style="margin-top:30px"> Accommodation Options: </h4>
-                                                      <div class="mkdf-post-excerpt-holder">
-                                                          <p itemProp="description" class="mkdf-post-excerpt">
-                                                            We offer a range of accommodation choices, including our own guest house and several other facilities, ensuring your comfort and convenience throughout your stay.
-                                                          </p><br />
-
-                                                          <p itemProp="description" class="mkdf-post-excerpt">
-                                                            At Mahabodhi Spiritual Adventure, your journey is more than a trip—it’s a chance to connect, grow, and contribute to a greater purpose.
-                                                          </p>
-                                                      </div>
-
+                                                      <h3 itemProp="name" class="entry-title mkdf-post-title">FAQs</h3>
                                                       
 
                                                   </div>
@@ -128,7 +85,7 @@ export default component$(() => {
 });
 
 export const head: DocumentHead = {
-  title: 'Amenities',
+  title: 'FAQs',
   meta: [
     {
       name: 'description',

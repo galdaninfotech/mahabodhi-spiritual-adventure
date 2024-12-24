@@ -45,9 +45,9 @@ export default component$(() => {
                                         <div class="second">
                                             <div class="inner">
                                                 <ul>
-                                                    <li id="nav-menu-item-1227" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/about" class=""><span class="item_outer"><span class="item_text">About us</span></span></a></li>
+                                                    <li id="nav-menu-item-1227" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/about/about" class=""><span class="item_outer"><span class="item_text">About us</span></span></a></li>
                                                     <li id="nav-menu-item-1228" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/contact" class=""><span class="item_outer"><span class="item_text">Get in touch</span></span></a></li>
-                                                    <li id="nav-menu-item-1230" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="faqs.html" class=""><span class="item_outer"><span class="item_text">FAQ</span></span></a></li>
+                                                    <li id="nav-menu-item-1230" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/about/faqs" class=""><span class="item_outer"><span class="item_text">FAQ</span></span></a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -116,10 +116,10 @@ export default component$(() => {
                                         <div class="second">
                                             <div class="inner">
                                                 <ul>
-                                                    <li id="nav-menu-item-2575" class="menu-item menu-item-type-post_type menu-item-object-page"> <a href="/upcoming-retreats/customized-wellness-journeys" class=""> <span class="item_outer"><span class="item_text">Customized Wellness Journeys</span></span> </a> </li>
-                                                    <li id="nav-menu-item-2576" class="menu-item menu-item-type-post_type menu-item-object-page"> <a href="/upcoming-retreats/ladakh-yoga-retreat" class=""> <span class="item_outer"><span class="item_text">Ladakh Yoga Retreat</span></span> </a> </li>
-                                                    <li id="nav-menu-item-2046" class="menu-item menu-item-type-post_type menu-item-object-page"> <a href="/upcoming-retreats/meditation-in-the-monasteries" class=""> <span class="item_outer"><span class="item_text">Meditation In The Monasteries</span></span> </a> </li>
-                                                    <li id="nav-menu-item-2588" class="menu-item menu-item-type-post_type menu-item-object-page"> <a href="/upcoming-retreats/yoga-and-meditation-at-pangong-lake" class=""> <span class="item_outer"><span class="item_text">Yoga and Meditation At Exotic Location</span></span> </a> </li>
+                                                    <li id="nav-menu-item-2575" class="menu-item menu-item-type-post_type menu-item-object-page"> <a href="/special-packages/customized-package-journeys" class=""> <span class="item_outer"><span class="item_text">Customized Package Journeys</span></span> </a> </li>
+                                                    <li id="nav-menu-item-2576" class="menu-item menu-item-type-post_type menu-item-object-page"> <a href="/special-packages/ladakh-yoga-retreat" class=""> <span class="item_outer"><span class="item_text">Ladakh Yoga Retreat</span></span> </a> </li>
+                                                    <li id="nav-menu-item-2046" class="menu-item menu-item-type-post_type menu-item-object-page"> <a href="/special-packages/meditation-in-the-monasteries" class=""> <span class="item_outer"><span class="item_text">Meditation In The Monasteries</span></span> </a> </li>
+                                                    <li id="nav-menu-item-2588" class="menu-item menu-item-type-post_type menu-item-object-page"> <a href="/special-packages/yoga-and-meditation-at-pangong-lake" class=""> <span class="item_outer"><span class="item_text">Yoga and Meditation At Exotic Location</span></span> </a> </li>
                                                     <li id="nav-menu-item-2576" class="menu-item menu-item-type-post_type menu-item-object-page"> <a href="/packages/serenity-and-discovery" class=""> <span class="item_outer"><span class="item_text">Serenity & Discovery</span></span> </a> </li>
                                                     <li id="nav-menu-item-2577" class="menu-item menu-item-type-post_type menu-item-object-page"> <a href="/packages/adventure-and-enlightenment" class=""> <span class="item_outer"><span class="item_text">Adventure & Enlightenment</span></span> </a> </li>
                                                     <li id="nav-menu-item-2578" class="menu-item menu-item-type-post_type menu-item-object-page"> <a href="/packages/complete-retreat" class=""> <span class="item_outer"><span class="item_text">Complete Retreat</span></span> </a> </li>
@@ -146,10 +146,10 @@ export default component$(() => {
                                         <div class="second">
                                             <div class="inner"> 
                                                 <ul>
-                                                    <li id="nav-menu-item-2576" class="menu-item menu-item-type-post_type menu-item-object-page"> <a href="/packages/serenity-and-discovery" class=""> <span class="item_outer"><span class="item_text">Normal1</span></span> </a> </li>
-                                                    <li id="nav-menu-item-2577" class="menu-item menu-item-type-post_type menu-item-object-page"> <a href="/packages/adventure-and-enlightenment" class=""> <span class="item_outer"><span class="item_text">Adventure & Enlightenment</span></span> </a> </li>
-                                                    <li id="nav-menu-item-2578" class="menu-item menu-item-type-post_type menu-item-object-page"> <a href="/packages/complete-retreat" class=""> <span class="item_outer"><span class="item_text">Complete Retreat</span></span> </a> </li>
-                                                    <li id="nav-menu-item-2046" class="menu-item menu-item-type-post_type menu-item-object-page"> <a href="/packages/hybrid-retreat-and-sightseeing" class=""> <span class="item_outer"><span class="item_text">Hybrid Retreat & Sightseeing</span></span> </a> </li>
+                                                    <li id="nav-menu-item-2576" class="menu-item menu-item-type-post_type menu-item-object-page"> <a href="/packages/classic-ladakh-adventure" class=""> <span class="item_outer"><span class="item_text">Classic Ladakh Adventure</span></span> </a> </li>
+                                                    <li id="nav-menu-item-2577" class="menu-item menu-item-type-post_type menu-item-object-page"> <a href="/packages/cultural-ladakh-tour-with-homestays" class=""> <span class="item_outer"><span class="item_text">Cultural Ladakh Tour With Homestays</span></span> </a> </li>
+                                                    <li id="nav-menu-item-2578" class="menu-item menu-item-type-post_type menu-item-object-page"> <a href="/packages/ladakh-expedition-with-tsomoriri" class=""> <span class="item_outer"><span class="item_text">Ladakh Expedition With Tsomoriri</span></span> </a> </li>
+                                                    <li id="nav-menu-item-2046" class="menu-item menu-item-type-post_type menu-item-object-page"> <a href="/packages/ladakh-scenic-road-trip" class=""> <span class="item_outer"><span class="item_text">Ladakh Scenic Road Trip</span></span> </a> </li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -178,6 +178,8 @@ export default component$(() => {
                 </div>
             </div>
         </header>
+
+
         <header class="mkdf-mobile-header">
             <div class="mkdf-mobile-header-inner">
                 <div class="mkdf-mobile-header-holder">
