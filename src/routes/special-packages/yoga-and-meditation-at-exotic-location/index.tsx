@@ -170,7 +170,7 @@ export default component$(() => {
                                                         <li><i class="far fa-dot-circle"></i><strong>Special Highlights:</strong>A morning gratitude session before departure, concluding the retreat with reflections on personal growth and spiritual rejuvenation. </li>
                                                       </ul>
 
-
+                                                      <br /><br />
                                                       <p>This itinerary provides a perfect opportunity to immerse in monastic life, practice mindfulness in serene environments, and gain deeper spiritual insights. </p>
 
                                                       <br /><br /><br />

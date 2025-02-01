@@ -11,7 +11,7 @@ export default component$(() => {
                         <span class="mkdf-icon-element ion-android-call" style="color: #878787; font-size: 15px;"></span> <span class="mkdf-icon-text" style="font-size: 18px; color: #878787;">+91-8899482751</span>
                     </a>
 
-                    <a class="mkdf-icon-widget-holder" href="cdn-cgi/l/email-protection.html#cabdaba4aeafb8a6aba4ae8abba5aeafa3a4beafb8aba9bea3bcafe4a9a5a7" target="_blank" style="margin: 0 0 0 25px;">
+                    <a class="mkdf-icon-widget-holder" href="mailto:mimc.tavelagency@gmail.com" target="_blank" style="margin: 0 0 0 25px;" >
                         <span class="mkdf-icon-element ion-ios-email-outline" style="color: #878787; font-size: 17px;"></span>
                         <span class="mkdf-icon-text" style="font-size: 18px; color: #878787;">
                             <span class="__cf_email__" data-cfemail="d9aeb8b7bdbcabb5b8b7bd99a8b6bdbcb0b7adbcabb8baadb0afbcf7bab6b4">mimc.tavelagency@gmail.com</span>

@@ -234,9 +234,12 @@ export default component$(() => {
                             <li id="mobile-menu-item-629" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub">
                                 <a href="#" class=" mkdf-mobile-no-link"><span>Special Packages</span></a><span class="mobile_arrow"><i class="mkdf-sub-arrow ion-ios-arrow-right"></i><i class="ion-ios-arrow-down"></i></span>
                                 <ul class="sub_menu">
-                                    <li id="mobile-menu-item-2043" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/upcoming-retreats/ladakh-yoga-retreat" class=""><span>Ladakh Yoga Retreat</span></a></li>
-                                    <li id="mobile-menu-item-2577" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/upcoming-retreats/meditation-in-the-monasteries" class=""><span>Meditation in the Monasteries</span></a></li>
-                                    <li id="mobile-menu-item-2582" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/upcoming-retreats/yoga-and-meditation-at-pangong-lake" class=""><span>Yoga and Meditation at Pangong Lake</span></a></li>
+                                    <li id="mobile-menu-item-2043" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/special-packages/customized-package-journeys" class=""><span>Customized Package Journeys</span></a></li>
+                                    <li id="mobile-menu-item-2577" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/special-packages/spiritual-and-cultural-retreat" class=""><span>Spiritual & Cultural Retreat</span></a></li>
+                                    <li id="mobile-menu-item-2582" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/special-packages/ladakh-retreat" class=""><span>Yoga and Ladakh Retreat</span></a></li>
+                                    <li id="mobile-menu-item-2582" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/special-packages/meditation-in-the-monastery" class=""><span>Meditation in the Monastery</span></a></li>
+                                    <li id="mobile-menu-item-2582" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/special-packages/serenity-and-discovery" class=""><span>Serenity & Discovery</span></a></li>
+                                    <li id="mobile-menu-item-2582" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/special-packages/yoga-and-meditation-at-exotic-location" class=""><span>Yoga And Meditation At Exotic Location</span></a></li>
                                 </ul>
                             </li>
                             <li id="mobile-menu-item-630" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub">
