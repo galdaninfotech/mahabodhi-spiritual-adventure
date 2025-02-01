@@ -51,7 +51,7 @@ body {
 
 /* Itinerary */
 .mkdf-post-text-main ul.itinerary-list li {
-  color: #878787;
+  color: #222;
   line-height: 22px;
   margin-top: 10px;
 }
@@ -65,7 +65,7 @@ i.fas {
   margin-right: 10px;
 }
 ul.inclusion li span {
-  color: #878787;
+  color: #222;
   line-height: 28px;
 }
 ul.inclusion li span i {
@@ -82,3 +82,4 @@ ul.inclusion li span i {
 .breadcrumbs span:last-child {
     color: #59815b;
 }
+

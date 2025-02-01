@@ -111,3 +111,11 @@ var	tpj = jQuery;
             	});
             }} // End of RevInitScript
             if (window.RS_MODULES.checkMinimal!==undefined) { window.RS_MODULES.checkMinimal();};
+
+
+// Fix Mobile Menu height
+// document.querySelector('.mkdf-hm-lines').addEventListener('click', () => {
+//     document.querySelector('.mkdf-mobile-nav').style.height = "510px";
+// })
+
+document.querySelector('.mkdf-mobile-nav').style.height = "510px";

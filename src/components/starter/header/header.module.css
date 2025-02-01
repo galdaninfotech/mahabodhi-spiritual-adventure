@@ -42,3 +42,8 @@
     display: inline-block;
   }
 }
+
+
+nav.mkdf-mobile-nav {
+    height: 510px;
+}
